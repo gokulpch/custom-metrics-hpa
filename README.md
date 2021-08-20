@@ -1,4 +1,4 @@
-# Custom Scaling of Applications using Prometheus Adapter, Prometheus Operator and HPA-Kubernetes
+# Custom Scaling of Applications - Prometheus Adapter, Prometheus Operator and HPA-Kubernetes
 
 ### Setting Up the Demo
 
