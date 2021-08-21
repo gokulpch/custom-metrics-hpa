@@ -19,4 +19,4 @@ spec:
         name: demo_app_button_clicks_per_second
       target:
         type: AverageValue
-        averageValue: 10m
+        averageValue: 1m
